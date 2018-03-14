@@ -8,7 +8,7 @@ The Eventbrite website does not include the ability to visualize multiple events
 DESIGN PROCESS
 We initially had a very different idea in mind. We envisioned a travel planner that would combine Yelp with Google Maps that would function much like what we built here. We had intended to allow users to build out individual days of their trips and to provide them with a "cost" estimate based on Yelp's dollar sign rating system. The Yelp API proved too difficult in the period of time we had, so we moved on to Eventbrite.
 
-Marcus had some previous experience with the Google Maps API and Steve was interested in learning it so they took lead on that piece. The date picker was not as easy it initially appeared, so Hung worked on that. Chris and I built out the front end and worked together on the javascript that dynamically writes the Events Queue HTML.
+Marcus had some previous experience with the Google Maps API and Steve was interested in learning it so they took lead on that piece. The date picker was not as easy it initially appeared, so Hung worked on that. Chris and I built out the front end and designed it to be easy to read and responsive with inline form input fields. Also, we worked together on the javascript that dynamically writes the Events Queue HTML.
 
 TEAM EFFORTS
 Hung - date picker
